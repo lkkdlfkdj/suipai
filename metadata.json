@@ -1,0 +1,7 @@
+{
+  "name": "LumiCam - 专业光影相机",
+  "description": "一款兼具常规拍摄与专业辅助的移动端相机，提供多风格AI滤镜与构图指导。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
