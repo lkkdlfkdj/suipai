@@ -1,0 +1,21 @@
+{
+  "name": "LumiCam 专业光影相机",
+  "short_name": "LumiCam",
+  "description": "专业级光影相机应用，支持实时滤镜、照片编辑和云端存储",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["photography", "utilities"]
+}
